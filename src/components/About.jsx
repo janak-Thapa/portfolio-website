@@ -7,9 +7,9 @@ const About = () => {
         <div className='pb-8'>
           <p className='text-4xl font-bold inline border-b-4 border-gray-500'> About</p>
         </div>
-        <p className='text-xl mt-20'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo debitis porro cupiditate quasi nesciunt nisi suscipit exercitationem nobis consequuntur quam cumque sint perspiciatis qui dolorum dolores voluptatibus, inventore culpa eveniet nostrum laboriosam est? In dicta fugit temporibus illum ex sint blanditiis reprehenderit voluptate totam ipsam magnam veritatis, culpa optio officiis.</p>
+        <p className='text-xl mt-20'>Hello there!  I'm Janak, a passionate self-taught front-end developer with a love for crafting immersive digital experiences.. I'm skilled in HTML5, CSS3, and JavaScript, and my area of expertise is developing dynamic, responsive websites. I am knowledgeable in well-known front-end frameworks like React.js and TailwindCss and I always try to learn more by investigating new developments and trends in the industry.</p>
         <br />
-        <p className='text-xl'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit exercitationem voluptatem quidem, fugit eligendi aperiam amet dolorem ut id ullam, nemo neque placeat. Rerum reprehenderit soluta enim cum labore similique aliquid sint nesciunt veritatis, a id eius saepe totam sit! Veniam numquam minima, quaerat praesentium delectus enim assumenda quia nihil!</p>
+        <p className='text-xl'>Whether you have a project in mind, an exciting opportunity to discuss, or simply want to chat about front-end development, I'd love to hear from you! Feel free to reach out via email or connect with me on LinkedIn!</p>
       </div>
     </div>
   )
